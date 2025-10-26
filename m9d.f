@@ -1,7 +1,7 @@
 *****************************************************************
 *
-*               Copyright 2012, Vladimir E. Bondarenko
-*     Program m9c.f for mouse model. Epicardial action potential
+*       Copyright 2023, Tesfaye Asfaw and Vladimir E. Bondarenko
+*     Program m9d.f for mouse model. Epicardial action potential
 *              Room temperature +25 C (298 K) control
 *
 *****************************************************************
